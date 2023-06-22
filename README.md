@@ -6,6 +6,9 @@ simple personel website  https://dailybangla.press/Tariqul
 You can use it on your website.  But some files need to be changed, index.Html should be used by you and Script.js on line 105 with your date of birth.
 
 ![image](https://github.com/TariqullslamHridoy/Personel-Website/assets/110732307/f065c6f8-012b-4f7e-bdcd-99766fbb00a1)
+You can use it on your website download
+[Md Tariqul IsIam (Hridoy).zip (https://github.com/TariqullslamHridoy/Personel-Website/files/11834807/Md.Tariqul.IsIam.Hridoy.zip)
+
 
 All rights reserved © 2023 by Md Tariqul IsIam (Hridoy)
 
